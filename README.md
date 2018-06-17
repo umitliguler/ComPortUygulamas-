@@ -1,7 +1,9 @@
 # ComPortUygulamasi
 c# form uygulaması
 
-```C#
+**_STM32f4 Dİsco ile seri haberleşme sağlandı._**
+
+```C
 #include "stm32f4xx.h"
 #include "stm32f4_discovery.h"
 #include "stm32f4xx_usart.h"
